@@ -1,7 +1,7 @@
 
 @extends('layouts.home')
 
-@section('title','Laravel E-ticaret Sitesi')
+@section('title','Laravel E-ticaret Sitesi Github')
 @section('description')
     Hızlı ve güvenilir...
 @endsection
